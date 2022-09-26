@@ -26,7 +26,7 @@ async function main() {
 This is a rewrite of the cloudsession api from my original `scratch3-api` module.
 This module provides _only_ methods to communicate with the Scratch/TurboWarp
 cloud servers. To use methods that are not centered around the cloud servers,
-use [`scratch-connect`](https://www.npmjs.com/package/scratch-connect)(not yet published). For string to number conversions, see
+use [`scratch-connect`](https://www.npmjs.com/package/@errorgamer2000/scratch-connect)(not yet published). For string to number conversions, see
 [`stringstonumbers`](https://www.npmjs.com/package/stringstonumbers).
 
 # Installation
