@@ -1,5 +1,5 @@
 {
-  "name": "scratch-cloud",
+  "name": "@errorgamer2000/scratch-cloud",
   "version": "0.1.0",
   "description": "A TypeScript library that allows communication with the scratch cloud servers.",
   "main": "dist/index.js",

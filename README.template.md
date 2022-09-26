@@ -5,7 +5,7 @@ A TypeScript library that allows communication with the scratch cloud servers.
 A short example:
 
 ```ts
-import { ScratchCloud } from "scratch-cloud";
+import { ScratchCloud } from "@errorgamer2000/scratch-cloud";
 
 async function main() {
   const cloud = new ScratchCloud();
@@ -34,7 +34,7 @@ use [`scratch-connect`](https://www.npmjs.com/package/scratch-connect)(not yet p
 Install with npm or other package manager:
 
 ```sh
-npm install scratch-cloud
+npm install @errorgamer2000/scratch-cloud
 ```
 
 Or by cloning this repository:
